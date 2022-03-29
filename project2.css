@@ -1,0 +1,173 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    font-family: "Poppins";
+}
+ 
+
+.navbar{
+    padding: 40px;
+}
+
+.company1{
+    padding: 20px;
+    font-size: 25px;
+    color: rgb(200, 40, 40) ;
+    display:inline-flexbox;
+    font-weight: bolder;
+    
+}
+form {
+    background-color: rgb(226, 226, 226);
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    float:right;
+    position: static;
+    vertical-align: middle;
+    justify-content: center;
+
+    
+}
+  button {
+    all: unset;
+    vertical-align: middle;
+    cursor: pointer;
+    width: 40px;
+    height: 20x;
+
+}
+  
+  svg {
+    color: black;
+    fill: currentColor;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+}
+
+  input {
+    all: unset;
+    font: 16px system-ui;
+    color: black;
+    height: 100%;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+.margin
+{
+    background: white;
+    color: rgb(200, 40, 40);
+    max-height: 200px;
+    display:flex;
+    justify-content: right;
+    position: fixed;
+    width: 100%;
+}
+.nav-link
+{
+    padding: 20px;
+    font-size: 25px;
+    float: right;
+    vertical-align: ;
+}
+
+hr{
+    border-top: 2px red;
+    border-width: 2px;
+    border-color: rgb(200, 40, 40) ;
+}
+
+
+
+#welcome-section{
+
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: right;
+    padding: 10%;
+    margin-block-start: 2%;
+}
+
+#welcome-heading{
+    font-size: small;
+    margin-bottom: 0%;
+
+}
+
+#welcome-subtitle{
+    letter-spacing: 2px;
+    padding-top: 2%;
+    font-size: smaller;
+    justify-content: right;
+    word-spacing: 2%;
+    font-weight: lighter;
+}
+
+
+#welcome-grid {
+   display: flex;
+}
+
+.welcome-image {
+    width: 100%;
+    max-width: 300px;
+    max-height: 250px;
+    float: right;
+    margin-left: 80%;
+    position: relative;
+    margin-top: -18%;
+}
+
+form1{
+    background-color:rgb(200, 40, 40);
+    margin-top: -20px; 
+    width: 170px;
+    height: 50px;
+    border-radius: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    position: static;
+    justify-content: center;
+
+}
+
+input {
+    font: 20px ;
+    color: white;
+    height: 100%;
+    width: 100%;
+    padding: 10px 10px;
+    text-align: center;
+}
+#contents{
+
+    display: contents;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    line-height: 10em;
+}
+
+hr1{
+    border-width: 10px;
+    border-color: rgb(200, 40, 40) ;
+    width: 7%;
+    margin-bottom: 7px;  
+    margin-right: auto;  
+    margin-left: auto;  
+    margin-top: -20px;  
+    border-width: 4px;  
+}
+
+
